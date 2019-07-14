@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/javaclasses/pom.xml" />
+        <option value="$PROJECT_DIR$/javaclassesoptional/pom.xml" />
+        <option value="$PROJECT_DIR$/javacollections/pom.xml" />
+        <option value="$PROJECT_DIR$/javaexceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/javaio/pom.xml" />
+        <option value="$PROJECT_DIR$/javathreads/pom.xml" />
+        <option value="$PROJECT_DIR$/javamaintask/pom.xml" />
+        <option value="$PROJECT_DIR$/optionaltaskone/pom.xml" />
+        <option value="$PROJECT_DIR$/optionaltasktwo/pom.xml" />
+        <option value="$PROJECT_DIR$/optionaltaskthree/pom.xml" />
+        <option value="$PROJECT_DIR$/webdriver/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

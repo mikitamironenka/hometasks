@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaclasses/javaclasses.iml" filepath="$PROJECT_DIR$/javaclasses/javaclasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaclassesoptional/javaclassesoptional.iml" filepath="$PROJECT_DIR$/javaclassesoptional/javaclassesoptional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacollections/javacollections.iml" filepath="$PROJECT_DIR$/javacollections/javacollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaexceptions/javaexceptions.iml" filepath="$PROJECT_DIR$/javaexceptions/javaexceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaio/javaio.iml" filepath="$PROJECT_DIR$/javaio/javaio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javamaintask/javamaintask.iml" filepath="$PROJECT_DIR$/javamaintask/javamaintask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javathreads/javathreads.iml" filepath="$PROJECT_DIR$/javathreads/javathreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optionaltaskone/optionaltaskone.iml" filepath="$PROJECT_DIR$/optionaltaskone/optionaltaskone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optionaltaskthree/optionaltaskthree.iml" filepath="$PROJECT_DIR$/optionaltaskthree/optionaltaskthree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optionaltasktwo/optionaltasktwo.iml" filepath="$PROJECT_DIR$/optionaltasktwo/optionaltasktwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qaepamtraining.iml" filepath="$PROJECT_DIR$/qaepamtraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webdriver/webdriver.iml" filepath="$PROJECT_DIR$/webdriver/webdriver.iml" />
+    </modules>
+  </component>
+</project>

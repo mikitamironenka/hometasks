@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2390bc5-61bd-45b8-84e9-8eb55ede6c30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/javacollections/src/main/java/by/mironenka/maintaskone/ArrayAndLinkedListChecker.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/javaclasses/target/" />
+    <ignored path="$PROJECT_DIR$/javaclassesoptional/target/" />
+    <ignored path="$PROJECT_DIR$/javacollections/target/" />
+    <ignored path="$PROJECT_DIR$/javaexceptions/target/" />
+    <ignored path="$PROJECT_DIR$/javaio/target/" />
+    <ignored path="$PROJECT_DIR$/javathreads/target/" />
+    <ignored path="$PROJECT_DIR$/javamaintask/target/" />
+    <ignored path="$PROJECT_DIR$/optionaltaskone/target/" />
+    <ignored path="$PROJECT_DIR$/optionaltasktwo/target/" />
+    <ignored path="$PROJECT_DIR$/optionaltaskthree/target/" />
+    <ignored path="$PROJECT_DIR$/webdriver/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="qaepamtraining" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webdriver/src/test/java/WebDriverSyncDemoExplicit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="37" column="187" selection-start-line="37" selection-start-column="97" selection-end-line="37" selection-end-column="187" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webdriver/src/test/java/WebDriverSyncDemoFluent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/javacollections/src/main/java/by/mironenka/optionals/subdirectorytask/GetterOfDirectoryName.java" />
+        <option value="$PROJECT_DIR$/javacollections/src/main/java/by/mironenka/optionals/subdirectorytask/Runner.java" />
+        <option value="$PROJECT_DIR$/javacollections/src/main/java/by/mironenka/optionals/subdirectorytask/SubDirectoryListCreator.java" />
+        <option value="$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/customexceptions/IncorrectFileNameException.java" />
+        <option value="$PROJECT_DIR$/javaexceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/file.txt" />
+        <option value="$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/readerfromfile/ReaderFromFile.java" />
+        <option value="$PROJECT_DIR$/javacollections/pom.xml" />
+        <option value="$PROJECT_DIR$/javacollections/src/main/java/by/mironenka/optionals/stringreaderwritertask/DataIsNotNumberException.java" />
+        <option value="$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/customexceptions/DataIsNotNumberException.java" />
+        <option value="$PROJECT_DIR$/javacollections/src/main/java/by/mironenka/optionals/stringreaderwritertask/NumbersManipulator.java" />
+        <option value="$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/customexceptions/NumbersManipulator.java" />
+        <option value="$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/customexceptions/OutOfLimitDoubleException.java" />
+        <option value="$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/Runner.java" />
+        <option value="$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/NumbersManipulator.java" />
+        <option value="$PROJECT_DIR$/javaio/pom.xml" />
+        <option value="$PROJECT_DIR$/javaio/src/main/java/by/mironenka/randomnumberssorttask/sorter/Sorter.java" />
+        <option value="$PROJECT_DIR$/javaio/src/main/java/by/mironenka/randomnumberssorttask/readerNumbersFromFile/ReaderNumbersFromFile.java" />
+        <option value="$PROJECT_DIR$/javaio/src/main/java/by/mironenka/randomnumberssorttask/Runner.java" />
+        <option value="$PROJECT_DIR$/javaio/src/main/java/by/mironenka/randomnumberssorttask/writernumberstofile/WriterNumbersToFile.java" />
+        <option value="$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskone/Runner.java" />
+        <option value="$PROJECT_DIR$/javaio/src/main/java/by/mironenka/tasktwo/ReaderFromFile.java" />
+        <option value="$PROJECT_DIR$/javaio/src/main/java/by/mironenka/tasktwo/FileController.java" />
+        <option value="$PROJECT_DIR$/javaio/src/main/java/by/mironenka/tasktwo/Runner.java" />
+        <option value="$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskthree/FileController.java" />
+        <option value="$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskthree/Runner.java" />
+        <option value="$PROJECT_DIR$/javathreads/pom.xml" />
+        <option value="$PROJECT_DIR$/javathreads/src/main/java/by/mironenka/maintask/car/Car.java" />
+        <option value="$PROJECT_DIR$/javathreads/src/main/java/by/mironenka/maintask/parking/Parking.java" />
+        <option value="$PROJECT_DIR$/javathreads/src/main/java/by/mironenka/maintask/Runner.java" />
+        <option value="$PROJECT_DIR$/javamaintask/pom.xml" />
+        <option value="$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/models/CalzonePizza.java" />
+        <option value="$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/models/TypeOfPizza.java" />
+        <option value="$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/models/Ingredients.java" />
+        <option value="$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/models/Pizza.java" />
+        <option value="$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/models/Order.java" />
+        <option value="$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/Runner.java" />
+        <option value="$PROJECT_DIR$/optionaltaskone/pom.xml" />
+        <option value="$PROJECT_DIR$/optionaltaskone/src/main/java/by/mironenka/Runner.java" />
+        <option value="$PROJECT_DIR$/optionaltaskone/src/main/java/by/mironenka/tasktwo/Runner.java" />
+        <option value="$PROJECT_DIR$/optionaltaskone/src/main/java/by/mironenka/taskone/Runner.java" />
+        <option value="$PROJECT_DIR$/optionaltasktwo/pom.xml" />
+        <option value="$PROJECT_DIR$/optionaltasktwo/src/main/java/by.mironenka.taskone/Runner.java" />
+        <option value="$PROJECT_DIR$/optionaltaskthree/pom.xml" />
+        <option value="$PROJECT_DIR$/optionaltaskthree/src/main/java/by/mironenka/numberofmonthtask/UserAnswerException.java" />
+        <option value="$PROJECT_DIR$/optionaltaskthree/src/main/java/by/mironenka/numberofmonthtask/Runner.java" />
+        <option value="$PROJECT_DIR$/webdriver/src/test/java/HelloWebDriver.java" />
+        <option value="$PROJECT_DIR$/webdriver/src/test/java/CustomCondition.java" />
+        <option value="$PROJECT_DIR$/webdriver/src/test/java/WebDriverSyncDemo.java" />
+        <option value="$PROJECT_DIR$/webdriver/pom.xml" />
+        <option value="$PROJECT_DIR$/webdriver/src/test/java/WebDriverSyncDemoFluent.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/javaclasses/javaclasses.iml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qaepamtraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaepamtraining" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qaepamtraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaepamtraining" type="462c0819:PsiDirectoryNode" />
+              <item name="optionaltasktwo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qaepamtraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaepamtraining" type="462c0819:PsiDirectoryNode" />
+              <item name="webdriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qaepamtraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaepamtraining" type="462c0819:PsiDirectoryNode" />
+              <item name="webdriver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qaepamtraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaepamtraining" type="462c0819:PsiDirectoryNode" />
+              <item name="webdriver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qaepamtraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaepamtraining" type="462c0819:PsiDirectoryNode" />
+              <item name="webdriver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qaepamtraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaepamtraining" type="462c0819:PsiDirectoryNode" />
+              <item name="webdriver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562789263616" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javacourse" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="by.mironenka.numberofmonthtask" />
+      <recent name="by.mironenka.optionals.stringreaderwritertask" />
+      <recent name="by.mironenka.accessories" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WebDriverSyncDemoFluent">
+    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.mironenka.maintask.Runner" />
+      <module name="javathreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.mironenka.maintask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.mironenka.taskone.Runner" />
+      <module name="optionaltasktwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.mironenka.taskone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.mironenka.numberofmonthtask.Runner" />
+      <module name="optionaltaskthree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.mironenka.numberofmonthtask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.mironenka.taskone.Runner" />
+      <module name="optionaltaskone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.mironenka.taskone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverSyncDemoExplicit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebDriverSyncDemoExplicit" />
+      <module name="webdriver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverSyncDemoFluent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebDriverSyncDemoFluent" />
+      <module name="webdriver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebDriverSyncDemoFluent" />
+        <item itemvalue="Application.WebDriverSyncDemoExplicit" />
+        <item itemvalue="Application.Runner (3)" />
+        <item itemvalue="Application.Runner (2)" />
+        <item itemvalue="Application.Runner (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2390bc5-61bd-45b8-84e9-8eb55ede6c30" name="Default Changelist" comment="" />
+      <created>1560239281668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560239281668</updated>
+      <workItem from="1560342148844" duration="368000" />
+      <workItem from="1560426907043" duration="1553000" />
+      <workItem from="1560435618938" duration="4330000" />
+      <workItem from="1560490370537" duration="1078000" />
+      <workItem from="1560536794634" duration="5571000" />
+      <workItem from="1560587954433" duration="1654000" />
+      <workItem from="1560616675873" duration="540000" />
+      <workItem from="1560630376853" duration="175000" />
+      <workItem from="1560663451306" duration="1178000" />
+      <workItem from="1560878899470" duration="3042000" />
+      <workItem from="1560954794100" duration="6077000" />
+      <workItem from="1561030041610" duration="6581000" />
+      <workItem from="1561113346890" duration="5536000" />
+      <workItem from="1561138875305" duration="925000" />
+      <workItem from="1561178685829" duration="593000" />
+      <workItem from="1561205673693" duration="4687000" />
+      <workItem from="1561307306254" duration="1839000" />
+      <workItem from="1561382116272" duration="4619000" />
+      <workItem from="1561479112170" duration="2315000" />
+      <workItem from="1561567639012" duration="5971000" />
+      <workItem from="1561633853571" duration="600000" />
+      <workItem from="1561788078095" duration="6717000" />
+      <workItem from="1561894201421" duration="3475000" />
+      <workItem from="1561915008767" duration="2570000" />
+      <workItem from="1561945661902" duration="2799000" />
+      <workItem from="1562000311562" duration="1864000" />
+      <workItem from="1562155484086" duration="10107000" />
+      <workItem from="1562260721029" duration="7209000" />
+      <workItem from="1562335331236" duration="10516000" />
+      <workItem from="1562390275775" duration="7988000" />
+      <workItem from="1562447765792" duration="580000" />
+      <workItem from="1562474343066" duration="564000" />
+      <workItem from="1562476086722" duration="565000" />
+      <workItem from="1562504126607" duration="553000" />
+      <workItem from="1562509449338" duration="8000" />
+      <workItem from="1562511345464" duration="3245000" />
+      <workItem from="1562603496830" duration="3686000" />
+      <workItem from="1562698022137" duration="1187000" />
+      <workItem from="1562730169411" duration="6316000" />
+      <workItem from="1562789872339" duration="460000" />
+      <workItem from="1563110193127" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="130278000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7222222" visible="true" weight="0.28744328" />
+      <window_info id="Structure" order="1" sideWeight="0.2777778" side_tool="true" visible="true" weight="0.28744328" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Learn" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3120915" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43464053" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.1748366" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3398693" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/epam/learn/datatypes/Main.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/epam/learn/datatypes/Main.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/epam/learn/datatypes/Main.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaclasses/src/main/java/by/mironenka/bouquet/Bouquet.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaclasses/src/main/java/by/mironenka/bouquet/Bouquet.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaclasses/src/main/java/by/mironenka/flowers/FlowersFactory.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaclasses/src/main/java/by/mironenka/flowers/FlowersFactory.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaclasses/src/main/java/by/mironenka/flowers/FlowersFactory.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaclasses/src/main/java/by/mironenka/flowers/Flower.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskone/writernumberstofile/WriterNumbersToFile.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskone/writernumberstofile/WriterNumbersToFile.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskone/writernumberstofile/WriterNumbersToFile.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskone/Runner.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskone/writernumberstofile/WriterNumbersToFile.java</url>
+          <line>38</line>
+          <properties class="by.mironenka.taskone.writernumberstofile.WriterNumbersToFile" method="writeNumbersToFile">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/javacollections/src/main/java/by/mironenka/optionals/subdirectorytask/GetterOfDirectoryName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javacollections/src/main/java/by/mironenka/optionals/subdirectorytask/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javacollections/src/main/java/by/mironenka/optionals/subdirectorytask/SubDirectoryListCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexceptions/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javacollections/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/customexceptions/DataIsNotNumberException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/readerfromfile/ReaderFromFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/NumbersManipulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaio/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/customexceptions/OutOfLimitDoubleException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaexceptions/src/main/java/by/mironenka/maintask/customexceptions/IncorrectFileNameException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javacollections/src/main/java/by/mironenka/optionals/stringreaderwritertask/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="5" selection-start-line="7" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javacollections/src/main/java/by/mironenka/optionals/stringreaderwritertask/ReaderFromFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javacollections/src/main/java/by/mironenka/optionals/stringreaderwritertask/WriterToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskone/sorter/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taskone/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/tasktwo/ReaderFromFile.java" />
+    <entry file="file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskone/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskone/readerNumbersFromFile/ReaderNumbersFromFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskone/writernumberstofile/WriterNumbersToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="49" selection-start-line="38" selection-start-column="4" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/tasktwo/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="53" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/tasktwo/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="87" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskthree/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaio/src/main/java/by/mironenka/taskthree/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javamaintask/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javathreads/src/main/java/by/mironenka/maintask/parking/Parking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/models/UsualBasePizza.java" />
+    <entry file="file://$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/models/CalzonePizza.java" />
+    <entry file="file://$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/models/Client.java" />
+    <entry file="file://$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/constants/TypeOfPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/constants/Ingredients.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-731">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="e#1287#1288#0" expanded="true" />
+            <element signature="e#1329#1330#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1511#1512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/models/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="115" column="37" selection-start-line="115" selection-start-column="37" selection-end-line="115" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optionaltaskone/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javamaintask/src/main/java/by/mironenka/models/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+            <element signature="e#2561#2562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optionaltaskone/src/main/java/by/mironenka/tasktwo/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optionaltaskone/src/main/java/by/mironenka/taskone/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="87" selection-start-line="4" selection-start-column="87" selection-end-line="4" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javathreads/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optionaltasktwo/src/main/java/by.mironenka.taskone/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="96" selection-start-line="38" selection-start-column="96" selection-end-line="38" selection-end-column="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optionaltaskthree/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optionaltaskthree/src/main/java/by/mironenka/numberofmonthtask/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optionaltaskthree/src/main/java/by/mironenka/numberofmonthtask/UserAnswerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javathreads/src/main/java/by/mironenka/maintask/car/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javathreads/src/main/java/by/mironenka/maintask/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webdriver/src/test/java/CustomCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#379#553#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/optionaltasktwo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webdriver/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webdriver/src/test/java/WebDriverSyncDemoExplicit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="37" column="187" selection-start-line="37" selection-start-column="97" selection-end-line="37" selection-end-column="187" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webdriver/src/test/java/WebDriverSyncDemoFluent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>qaepamtraining</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
